@@ -1,0 +1,45 @@
+# --- Archivos de NetBeans ---
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+*.bak
+
+# --- Archivos de compilación ---
+*.class
+*.jar
+*.war
+*.ear
+
+# --- Archivos de sistema ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# --- Archivos temporales ---
+*.log
+*.tmp
+*.swp
+
+# --- Archivos de Office (no deberían estar en el repo) ---
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.pdf
+
+# --- Archivos de contraseñas o configuración local ---
+*.env
+*.key
+*.pem
+*.pfx
+*.crt
+*.csr
+*.txt
+
+
