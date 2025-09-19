@@ -1,3 +1,39 @@
+# Archivos de NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+*.bak
+
+# Archivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+
+# Archivos de oficina
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.pdf
+
+# Archivos de contraseñas o datos sensibles
+*.txt
 # --- Archivos de NetBeans ---
 nbproject/private/
 build/
